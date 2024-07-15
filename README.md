@@ -2,6 +2,8 @@
 
 This is a simple implementation of a blockchain in Python, built from scratch. The project aims to demonstrate the fundamental concepts of blockchain technology including blocks, hashing, proof of work, and decentralized consensus.
 
+![Blockchain](https://github.com/user-attachments/assets/9bb730a5-2aa9-4c35-880d-dcd2e2dac2e3)
+)
 ## Table of Contents
 
 - [Overview](#overview)
@@ -27,7 +29,7 @@ Blockchain technology has gained significant attention for its potential to revo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/blockchain-python.git
+   git clone https://github.com/chinnanj666/blockchain-project.git
    cd blockchain-python
 2. **Install dependencies**:
     Ensure you have Python 3 installed. Install Flask if not already installed:
