@@ -53,6 +53,7 @@ Blockchain technology has gained significant attention for its potential to revo
     Navigate to http://127.0.0.1:5000/chain to view the current state of the blockchain.
 
 
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements. For major changes, please open an issue first to discuss what you would like to change.
 
